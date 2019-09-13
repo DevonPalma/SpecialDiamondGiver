@@ -1,0 +1,7 @@
+name: SpecialDiamondGiver
+main: com.cheat.diamondGiver.DiamondGiver
+version: 0.0.1
+commands:
+   diamond:
+      description: Gives a special diamond
+      usage: /diamond <name> <lore>
